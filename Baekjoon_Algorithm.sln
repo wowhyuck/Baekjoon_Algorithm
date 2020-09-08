@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1. 입출력과 사칙연산", "1. 입출력과 사칙연산\1. 입출력과 사칙연산.vcxproj", "{01C484DF-5D93-4F72-8605-97A9C088F214}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01C484DF-5D93-4F72-8605-97A9C088F214}.Debug|x64.ActiveCfg = Debug|x64
+		{01C484DF-5D93-4F72-8605-97A9C088F214}.Debug|x64.Build.0 = Debug|x64
+		{01C484DF-5D93-4F72-8605-97A9C088F214}.Debug|x86.ActiveCfg = Debug|Win32
+		{01C484DF-5D93-4F72-8605-97A9C088F214}.Debug|x86.Build.0 = Debug|Win32
+		{01C484DF-5D93-4F72-8605-97A9C088F214}.Release|x64.ActiveCfg = Release|x64
+		{01C484DF-5D93-4F72-8605-97A9C088F214}.Release|x64.Build.0 = Release|x64
+		{01C484DF-5D93-4F72-8605-97A9C088F214}.Release|x86.ActiveCfg = Release|Win32
+		{01C484DF-5D93-4F72-8605-97A9C088F214}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA83658A-7D8E-42C4-91D9-6C0869108E68}
+	EndGlobalSection
+EndGlobal
