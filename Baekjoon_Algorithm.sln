@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10. 재귀", "10. 재귀\10
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11. 브루트 포스", "11. 브루트 포스\11. 브루트 포스.vcxproj", "{F4DD4B4D-CFB4-43B5-9366-BF5B99DF380B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12. 정렬", "12. 정렬\12. 정렬.vcxproj", "{B730F0F4-7513-41DB-BAD8-AA8CEE243446}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{F4DD4B4D-CFB4-43B5-9366-BF5B99DF380B}.Release|x64.Build.0 = Release|x64
 		{F4DD4B4D-CFB4-43B5-9366-BF5B99DF380B}.Release|x86.ActiveCfg = Release|Win32
 		{F4DD4B4D-CFB4-43B5-9366-BF5B99DF380B}.Release|x86.Build.0 = Release|Win32
+		{B730F0F4-7513-41DB-BAD8-AA8CEE243446}.Debug|x64.ActiveCfg = Debug|x64
+		{B730F0F4-7513-41DB-BAD8-AA8CEE243446}.Debug|x64.Build.0 = Debug|x64
+		{B730F0F4-7513-41DB-BAD8-AA8CEE243446}.Debug|x86.ActiveCfg = Debug|Win32
+		{B730F0F4-7513-41DB-BAD8-AA8CEE243446}.Debug|x86.Build.0 = Debug|Win32
+		{B730F0F4-7513-41DB-BAD8-AA8CEE243446}.Release|x64.ActiveCfg = Release|x64
+		{B730F0F4-7513-41DB-BAD8-AA8CEE243446}.Release|x64.Build.0 = Release|x64
+		{B730F0F4-7513-41DB-BAD8-AA8CEE243446}.Release|x86.ActiveCfg = Release|Win32
+		{B730F0F4-7513-41DB-BAD8-AA8CEE243446}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
